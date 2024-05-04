@@ -1,0 +1,29 @@
+[press ESC to skip the typing animation...]
+
+<span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span> whoami
+My name is Erik, but online I go by e-vrsho
+<span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span> <!-- kjsdfhkjdhsfkjdshfkj --> ls -l
+-rw-r--r-- 1 e-vrsho e-vrsho 8 May 2 2024 intro.txt
+-rw-r--r-- 1 e-vrsho e-vrsho 4 May 2 2024 links.txt
+<span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span> cat<!-- kjsdfhkjdhsfkjdshfkj --> intro.txt
+
+Hello World! 
+
+Welcome to this terminal which server as the <a href="https://e-vrsho.com">About Me</a> page.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+I'm a cybersecurity enthusiast on the journey of becoming The Cyber Guru.
+
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->During the day I work as the SOC Analyst while at night I'm discovering the realm of cybersecurity, obtaining cerifications, building home labs with virtual machines and playing with it, solving challenges and more.
+
+I found the biggest interest in digital forensics and malware analysis.
+
+<span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span> cat<!-- kjsdfhkjdhsfkjdshfkj --> links.txt
+
+See the below links for more information and content:
+
+<i class="fa-solid fa-square-check"></i> <a href="https://www.credly.com/users/erik-vrska">Credly</a>
+<i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/erikvrska/">LinkedIn</a>
+<i class="fa-brands fa-square-youtube"></i> <a href="https://www.youtube.com/@e-vrsho">YouTube</a>
+<i class="fa-solid fa-book"></i> <a href="https://writeups.e-vrsho.com">WriteUps</a>
+
+<span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span>
