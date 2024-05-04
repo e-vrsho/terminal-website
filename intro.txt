@@ -9,7 +9,7 @@ My name is Erik, but online I go by e-vrsho
 
 Hello World! 
 
-Welcome to this terminal which server as the <a href="https://e-vrsho.com">About Me</a> page.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Welcome to this terminal which serves as the <a href="https://e-vrsho.com">About Me</a> page.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 I'm a cybersecurity enthusiast on the journey of becoming The Cyber Guru.
 
