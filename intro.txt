@@ -24,6 +24,7 @@ See the below links for more information and content:
 <i class="fa-solid fa-square-check"></i> <a href="https://www.credly.com/users/erik-vrska" target="_blank" rel="noopener noreferrer">Credly</a>
 <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/erikvrska/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <i class="fa-brands fa-square-youtube"></i> <a href="https://www.youtube.com/@e-vrsho" target="_blank" rel="noopener noreferrer">YouTube</a>
-<i class="fa-solid fa-book"></i> <a href="https://write-ups.e-vrsho.com" target="_blank" rel="noopener noreferrer">WriteUps</a>
+<i class="fa fa-laptop"></i> <a href="https://write-ups.e-vrsho.com" target="_blank" rel="noopener noreferrer">Write-Ups</a>
+<i class="fa-solid fa-book"></i> <a href="https://guides.e-vrsho.com" target="_blank" rel="noopener noreferrer">Guides</a>
 
 <span id="a">e-vrsho@webserver</span>:<span id="b">~</span><span id="c">$</span>
